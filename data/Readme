@@ -1,7 +1,11 @@
 This is some data and intermediate results in paper Sentiment-Analysis-via-Graph-Neural-Networks-using-College-SubReddit-data-during-the-COVID-19-Pandemic
 
-Data that is processed for model GAT can be downloaded at:
+The results in file "Classification Result-GAT" and "Classification Result-RoBERTa" are based on predicted probabilities before ROC adjustment.
 
+The combine result for GAT, RoBERTa, and stacking model can be downloaded at:
+https://drive.google.com/file/d/13isu8URL9u3pUmF69_uRsZPVO-mxExb9/view?usp=sharing
+
+Data that is processed for model GAT can be downloaded at:
 https://drive.google.com/file/d/1q-_aAM6DrmI9WWXdd6gjJUfS32fgmpGH/view?usp=sharing
 
 The unprocessed data is Restricted Access, and people who are interested in the data may contact the authors to apply for data access and sign a data user agreement form. 
