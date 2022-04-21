@@ -3,3 +3,9 @@ This is read file for paper Sentiment Analysis via Graph Neural Networks using C
 The number at the front of ".ipynb" files denotes the steps they are executed.
 
 If you want to replicate the result, download the preprocessed data, and run juyter notebook in order.
+
+Data that is processed for model GAT can be downloaded at:
+https://drive.google.com/file/d/1q-_aAM6DrmI9WWXdd6gjJUfS32fgmpGH/view?usp=sharing
+
+The unprocessed data is Restricted Access, and people who are interested in the data may contact the authors to apply for data access and sign a data user agreement form. 
+Contact the authors (tyan@nd.edu) for details.
