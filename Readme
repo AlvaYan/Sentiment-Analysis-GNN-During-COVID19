@@ -9,3 +9,5 @@ https://drive.google.com/file/d/1q-_aAM6DrmI9WWXdd6gjJUfS32fgmpGH/view?usp=shari
 
 The unprocessed data is Restricted Access, and people who are interested in the data may contact the authors to apply for data access and sign a data user agreement form. 
 Contact the authors (tyan@nd.edu) for details.
+
+This is the Readme file for paper titled"COVID-19 sentiment analysis using college subreddit data" (url). The number at the front of ".ipynb" files denotes the sequence of the steps in which the codes are executed. To replicate the results, send an email request to the authors  (tyan@nd.edu)  to request the  unprocessed data (sRestricted Access) by signing a data user agreement form.  ,  and run juyter notebook in the order of the listed steps.
