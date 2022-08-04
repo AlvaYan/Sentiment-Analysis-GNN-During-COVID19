@@ -1,5 +1,6 @@
 This is the Readme file for paper titled"COVID-19 sentiment analysis using college subreddit data" (https://arxiv.org/abs/2112.04351). The number at the front of ".ipynb" files denotes the sequence of the steps in which the codes are executed. 
-You can downloaded the anonymized data here:
+
+You can downloaded the unprocessed anonymized data here:
 https://drive.google.com/file/d/13PzwBAjyI4VYpCEVye6fU3gGsDvdnrBY/view?usp=sharing
 
 You can download the RoBERTa processed data and score here:
